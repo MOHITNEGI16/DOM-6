@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+#input{
+    height: 2rem;
+    border-radius: 10px;
+}
+#submit{
+    height: 2rem;
+    border-radius: 10px;  
+}
+#serachResult{
+    border: 2px solid black;
+}
+
+
+table{
+    /* border: 2px solid white; */
+    width: 98vw;
+    border-collapse: collapse;
+}
+
+table tbody tr td {
+
+    text-align: center;
+    font-size: 1.6rem;
+    color: white;
+    font-weight: 500;
+    border-bottom:0.8px solid rgb(81, 78, 78); /* You can adjust the color and thickness as needed */
+  }
+
+  
+
+
